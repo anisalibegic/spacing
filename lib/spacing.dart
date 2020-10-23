@@ -19,19 +19,19 @@ class HSpacing extends StatelessWidget {
       : width = 20.0,
         height = 0.0;
   const HSpacing.semiCompact()
-      : width = 30.0,
+      : width = 25.0,
         height = 0.0;
   const HSpacing.compact()
       : width = 30.0,
         height = 0.0;
   const HSpacing.semiLarge()
-      : width = 40.0,
+      : width = 35.0,
         height = 0.0;
   const HSpacing.large()
       : width = 40.0,
         height = 0.0;
   const HSpacing.semiHuge()
-      : width = 50.0,
+      : width = 45.0,
         height = 0.0;
   const HSpacing.huge()
       : width = 50.0,
@@ -66,19 +66,19 @@ class VSpacing extends StatelessWidget {
       : height = 20.0,
         width = 0.0;
   const VSpacing.semiCompact()
-      : height = 30.0,
+      : height = 25.0,
         width = 0.0;
   const VSpacing.compact()
       : height = 30.0,
         width = 0.0;
   const VSpacing.semiLarge()
-      : height = 40.0,
+      : height = 35.0,
         width = 0.0;
   const VSpacing.large()
       : height = 40.0,
         width = 0.0;
   const VSpacing.semiHuge()
-      : height = 50.0,
+      : height = 45.0,
         width = 0.0;
   const VSpacing.huge()
       : height = 50.0,
