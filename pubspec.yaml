@@ -1,6 +1,5 @@
 name: spacing
-version: 1.0.0
-author: Anis Alibegić
+version: 2.0.0
 description: Spacing package for Flutter.
 
 environment:
@@ -9,5 +8,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+
+  gap: ^2.0.0
 
 flutter:
