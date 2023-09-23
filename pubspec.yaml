@@ -9,6 +9,6 @@ dependencies:
   flutter:
     sdk: flutter
 
-  gap: ^2.0.1
+  gap: ^3.0.1
 
 flutter:
